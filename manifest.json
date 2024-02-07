@@ -1,0 +1,23 @@
+// manifest.json
+{
+  "manifest_version": 3,
+  "name": "EZ Multitwitch",
+  "version": "1.0",
+  "description": "Open all the streams you want from the following page in just a few clicks",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "storage",
+    "contextMenus",
+    "webNavigation"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  }
+}
