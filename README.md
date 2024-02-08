@@ -1,9 +1,21 @@
 # ez_multitwitch
-Easily open all the streams you want from your following page
+Easily open all the streams you want from Twtich
 
 Pin the extension for easier access!
 
 ---
+## Install Intructions
+
+Download the Code Zip and unzip it to a folder
+
+Navigate to chrome://extensions/ 
+
+Enable Developer Mode in the top right
+
+Click Load Unpacked in the top left and point to the folder you unzipped to
+ 
+---
+## How to use
 
 Right click on a stream on Twitch
 
