@@ -21,3 +21,5 @@ Features I want to add:
 
 - adding streams to an already open multitwitch tab
 - better icon
+- remove accidental adds? (maybe just a reset for the variable)
+- maybe list them in the popup so you can remove any you added by miztake 
