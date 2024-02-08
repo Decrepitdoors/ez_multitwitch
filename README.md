@@ -5,9 +5,9 @@ Pin the extension for easier access!
 
 ---
 
-Right click on the stream from your following page
+Right click on the stream a stream on Twitch
 
-Click add to multitwitch in the context menu, a number hould appear infront of the extension icon
+Click 'add to multitwitch' in the context menu, a number should appear infront of the extension icon
 
 Do this again for all the streams you want to add 
 
