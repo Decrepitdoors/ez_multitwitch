@@ -23,7 +23,7 @@ Click 'add to multitwitch' in the context menu, a number should appear infront o
 
 Do this again for all the streams you want to add 
 
-Click the extension icon and click open multitwitch in the popup
+Click the extension icon and click Open Streams in the popup
 
 Prevention from adding the same one to the list, incase your heads as empty as mine
 
