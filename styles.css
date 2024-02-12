@@ -1,0 +1,8 @@
+#addStreamBtn {
+  background-color: #3498db; /* Button background color */
+  color: #ffffff; /* Button text color */
+  padding: 10px 20px; /* Padding for the button */
+  border: none; /* Remove button border */
+  border-radius: 5px; /* Add border-radius for rounded corners */
+  cursor: pointer; /* Add a pointer cursor on hover */
+}
