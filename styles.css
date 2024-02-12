@@ -1,8 +1,19 @@
+/* styles.css */
+
+/* Apply flexbox layout to the body */
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Apply styles to the button */
 #addStreamBtn {
-  background-color: #3498db; /* Button background color */
-  color: #ffffff; /* Button text color */
-  padding: 10px 20px; /* Padding for the button */
-  border: none; /* Remove button border */
-  border-radius: 5px; /* Add border-radius for rounded corners */
-  cursor: pointer; /* Add a pointer cursor on hover */
+  background-color: #90EE90;
+  color: #5b3f87;
+  padding: 4px 6px;
+  border: none;
+  cursor: pointer;
 }
